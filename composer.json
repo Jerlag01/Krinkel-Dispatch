@@ -1,0 +1,16 @@
+{
+    "name": "jl/krinkeldispatch",
+    "description": "Dispatch systeem voor Krinkel",
+    "type": "project",
+    "license": "gpl",
+    "authors": [
+        {
+            "name": "Jeroen Lagaet",
+            "email": "jeroen@jl-tech.be"
+        }
+    ],
+    "require": {
+        "google/apiclient": "2.0",
+        "almasaeed2010/adminlte": "~3.0"
+    }
+}
